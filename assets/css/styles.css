@@ -109,7 +109,6 @@ p{
 }
 
 .idea-h3{
-    border: 2px solid grey;
     width: 100%;
     padding: 1em;
 }
@@ -156,7 +155,6 @@ p{
 
 .info-text{
     padding: 10px 7em 5px 20px;
-    border: 2px solid red;
 }
 
 .info-text h4{
