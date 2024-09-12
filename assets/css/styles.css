@@ -87,6 +87,19 @@ p{
     position: absolute;
     top: 0.5em;
     right: 1em;
+    animation: fly 7s ease-in-out infinite;
+}
+
+@keyframes fly {
+    0% {
+        transform: translateY(0); 
+    }
+    50% {
+        transform: translateY(4.5em); 
+    }
+    100% {
+        transform: translateY(0);
+    }
 }
 
 .section2{
