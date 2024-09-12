@@ -200,7 +200,7 @@ p{
     margin-bottom: 18vh;
  }
 
- .ready-section1, .ready-section2{
+ .ready-section1, .ready-section2, .ready-section3{
     display: flex;
     justify-content: space-between;
     margin-bottom: 12vh;
@@ -239,3 +239,7 @@ p{
 
  .ready-section2 .ready-text{
     margin-left: 6%; }
+
+.youlike p{
+    font-size: 13px;
+}    
