@@ -197,4 +197,42 @@ p{
  }
  .section4 p{
     padding: 0 36.5em;
+    margin-bottom: 18vh;
+ }
+
+ .ready-section1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6vh;
+ }
+ .ready-img{
+    width: 42%;
+    padding-left: 5%;
+ }
+
+ .ready-img img{
+    width: 100%;
+ }
+
+ .ready-text{
+    width: 40%;
+    margin-right: 6vw;
+ }
+
+ .h4number{
+    color: #DDDDDD;
+    font-size: 3rem;
+    margin-bottom: 20px;
+ }
+ .emoji{
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+ }
+
+ .ready-text h4{
+    margin-bottom: 20px;
+ }
+
+ .ready-text p{
+    line-height: 2em;
  }
